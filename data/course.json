@@ -15,7 +15,7 @@
     "website": "test-course-ibrahim9"
   },
   "course_title": "test-course-ibrahim9",
-  "hide_download": false,
+  "hide_download": true,
   "course_description": "",
   "department_numbers": [
     "1"
